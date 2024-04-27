@@ -1,2 +1,3 @@
-# Responsive-navigation-bar-
-This GitHub repository showcases a responsive navigation bar created using HTML and CSS. The navigation bar adjusts its layout and appearance based on the device's screen size, providing an optimal user experience across various devices. The code demonstrates best practices for creating a flexible and user-friendly navigation menu for websites.
+# landing page design 
+
+This GitHub repository showcases a landing page design created using HTML and CSS. The design is visually appealing, easy to navigate, and optimized for conversion. It includes elements such as clear CTAs, compelling visuals, and relevant information to engage visitors and encourage action. The code demonstrates best practices for creating effective landing pages for various purposes.
